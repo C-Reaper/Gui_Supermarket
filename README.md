@@ -1,14 +1,13 @@
-# Gui_Worley
-
+# Gui_Supermarket
 
 ## Project Overview
 
-This project implements specialized functionality related to worley.
+This project implements specialized functionality related to Supermarket.
 
 ## Core Components
 
 ### Main Functionality
-- Implements core algorithms for worley
+- Implements core algorithms for Supermarket
 - Efficient data structures
 - Optimized performance
 - Clean code organization
@@ -61,7 +60,7 @@ This project implements specialized functionality related to worley.
 
 1. Navigate to project directory:
 ```bash
-cd Gui_Worley
+cd Gui_Supermarket
 ```
 
 2. Build the project:
@@ -104,7 +103,7 @@ make -f Makefile.(os) exe
 ## Project Organization
 
 ```
-Gui_Worley/
+Gui_Supermarket/
 ├── src/
 │   ├── Main.c          # Entry point
 │   └── *.c             # Implementation files
